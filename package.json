@@ -41,5 +41,9 @@
     "eslint-plugin-react": "7.31.8",
     "eslint-plugin-react-hooks": "4.6.0",
     "@typescript-eslint/utils": "5.36.2"
+  },
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "node-html-parser": "^6.0.0"
   }
 }
